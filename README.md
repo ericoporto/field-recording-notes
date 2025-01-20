@@ -15,6 +15,7 @@ Note that the equipment I am using has been selected by what I can put my hands 
 - Senheiser MKE 200, a small and portable microphone
 - Windshield for the Tascam DR-05X microphones, the cheapest I found
 - sony mdr xb55ap, earbuds for listening directly from the Tascam DR-05X
+- 1 64 GB Sandisk micro SD card, I will probably need more in the future, but I will need to figure a way to store them.
 
 So as you see, it's all built around the very small Tascam DR-05X, it's a small and very portable kit I can throw in a small backpack that doesn't calls much attention and also its quick to assembly and have it recording.
 
