@@ -26,6 +26,10 @@ My plan here, for editing, is to rely solely on Audacity. I have used it for mor
 
 For sound organizing, I may build something myself at some point - probably using either PyQt or some custom c++ thing.
 
+## places
+
+For now I am mostly recording in places near where I live, so I don't plan to write about these. In the future when traveling, I may make notes on places I traveled to and captured sounds.
+
 ## references
 
 - https://moonblink.info/FieldRecording/content/course
